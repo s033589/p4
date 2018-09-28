@@ -15,8 +15,14 @@ int main() {
 
     suma = a + b;
     sandauga = a * b;
-
     printf("Skaičių suma yra %d \nSkaičių sandauga yra %d", suma, sandauga);
+
+
+
+
+
+
+    printf("Test");
 
     return 0;
 }
